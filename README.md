@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ### Hei 👋
 
 🔭 I’m currently taking back-end education at Noroff
 
@@ -6,7 +6,7 @@
 
 👯 I’m looking to work as a back-end or front-end developer, not sure if im up for the task? send me a test!
 
-💬 Ask me about how i can benefit you
+💬 Ask me about what program language i love the most and hate the most
 
 📫 How to reach me: mathias344@live.no
 
