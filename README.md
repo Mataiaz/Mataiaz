@@ -1,4 +1,4 @@
-### Hi there ### Hei 👋
+### Hi there 👋
 
 🔭 I’m currently taking back-end education at Noroff
 
