@@ -12,5 +12,5 @@
 
 😄 Pronouns: him
 
-⚡ Fun fact: I used to study electrical engineering then industrial technology then industrial high pressure painting
-              before discovering my love for programming
+⚡ Fun fact: 
+I used to study electrical engineering then industrial technology then industrial high pressure painting before discovering my love for programming
