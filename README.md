@@ -13,3 +13,7 @@
 😄 Pronouns: him
 
 ⚡ Fun fact: I used to study electrical engineering. industrial technology and industrial high pressure painting before discovering my love for programming
+
+### Heres my projects:
+
+https://github.com/Mataiaz/projects/blob/main/LINKS.md
