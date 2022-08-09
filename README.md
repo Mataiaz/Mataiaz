@@ -12,4 +12,4 @@
 
 😄 Pronouns: him
 
-⚡ Fun fact: I attended the 42 ecole school in Paris
+⚡ Fun fact: I used to study electrical engineering then industrial technology then industrial high pressure painting before discovering my love for programming
