@@ -12,7 +12,7 @@
 
 😄 Pronouns: him
 
-⚡ Fun fact: I used to study electrical engineering. industrial technology and industrial high pressure painting before discovering my love for programming
+⚡ Fun fact: I used to study electrical engineering (first year). industrial technology and industrial high pressure painting before discovering my love for programming
 
 ### Heres my projects:
 
