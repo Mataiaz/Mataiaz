@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**Mataiaz/Mataiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 I’m currently taking back-end education at Noroff
 🌱 I’m currently trying to better my knowledge React and security of websites
 👯 I’m looking to work as a back-end or front-end developer, not sure if im up for the task? send me a test!
