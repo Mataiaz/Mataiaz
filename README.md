@@ -6,7 +6,7 @@
 
 👯 I’m looking to work as a back-end or front-end developer, not sure if im up for the task? send me a test!
 
-💬 Ask me about what program language i love the most and hate the most
+💬 Ask me about what projects i liked to work on the most
 
 📫 How to reach me: mathias344@live.no
 
