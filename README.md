@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently taking back-end education at Noroff
+🔭 I’m currently working as a software developer while taking back-end education at Noroff
 
-🌱 I’m currently trying to better my knowledge React and security of websites
+🌱 I’m currently trying to better my knowledge in oracle db
 
-👯 I’m looking to work as a back-end or front-end developer, not sure if im up for the task? send me a test!
+👯 I’m looking to better my knowledge in programming and meet new people
 
 💬 Ask me about what projects i liked to work on the most
 
