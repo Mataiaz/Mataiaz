@@ -8,7 +8,7 @@
 
 💬 Ask me about what projects i liked to work on the most
 
-📫 How to reach me: mathias344@live.no
+📫 How to reach me: mataiaz344@hotmail.com
 
 😄 Pronouns: him
 
