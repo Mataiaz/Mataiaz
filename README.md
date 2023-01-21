@@ -10,7 +10,7 @@
 
 📫 How to reach me: mataiaz344@hotmail.com
 
-😄 Pronouns: him
+😄 Pronouns: he/him
 
 ⚡ Fun fact: I used to study electrical engineering (first year). industrial technology and industrial high pressure painting before discovering my love for programming
 
