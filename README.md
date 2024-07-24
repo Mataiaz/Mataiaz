@@ -4,9 +4,9 @@
 
 📖 I have diploma from Noroff as a back-end developer
 
-📫 How to reach me: mataiaz344@hotmail.com
-
 💻 I have strong knowledge in PL/SQL, Javascript and databases
+
+📫 How to reach me: mataiaz344@hotmail.com
 
 ### Here's my projects:
 
